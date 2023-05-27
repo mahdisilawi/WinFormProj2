@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "524feaef-f0bc-4549-8469-63b47c79e11e": {
+      "ProjectGuid": "524feaef-f0bc-4549-8469-63b47c79e11e",
+      "DisplayName": "Music Player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
